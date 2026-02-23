@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 someone who loves to learn, practice and experiment with software development and other stuff.
+
+# projects that i'm currently working on:
+- [winiri](https://github.com/Ronaldo93/winiri) - find and focus windows via fuzzy search for niri (a linux desktop environment).
